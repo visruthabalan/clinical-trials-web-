@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Clinical Insight Platform",
+  "description": "Enterprise clinical trial intelligence platform using Gemini Agentic AI to harmonize data silos, monitor data quality, and provide proactive risk-based insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
